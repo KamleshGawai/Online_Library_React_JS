@@ -1,4 +1,8 @@
 # Online Library System
+Instruction For Installation and run project
+>>cd .\vite-project\
+>>npm Install
+>>npm run dev
 
 ## Overview
 The Online Library System is a React application that allows users to browse, add, and view details of books. It features a user-friendly interface, responsive design, and utilizes Redux for state management.
