@@ -21,7 +21,6 @@ The Online Library System is a React application that allows users to browse, ad
 
 Follow these steps to set up the project locally:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/online-library-system.git
-   cd online-library-system
+git **Clone the repository From**
+
+https://github.com/KamleshGawai/Online_Library_React_JS.git
